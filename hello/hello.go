@@ -1,9 +1,10 @@
 package main
 
 import (
-    "fmt"
-    "log"
-    "example.com/greetings"
+	"fmt"
+	"log"
+
+	"example.com/greetings"
 )
 
 func main() {
